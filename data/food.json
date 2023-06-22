@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Masashi Katsuki",
+        "foods": [
+            {
+                "foodName": "Sushi ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8185/salmon-nigiri-%20sushi?optimizer=image",
+                "foodInfo": "Japanese sushi has its roots in the street food culture of medieval Tokyo, with pieces of nigiri (a rectangular bed of vinegar-seasoned rice topped with a slice of raw fish) served up from stalls and eaten by hand.",
+                "rating": 4.5
+            },
+            {
+                "foodName": "Miso Soup ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8186/miso%20soup?optimizer=image",
+                "foodInfo": "A firm staple in the Japanese diet, you can find this thin soup on the menu for breakfast, lunch, and dinner. Miso soup is made from dashi stock and miso: a salty-tasting paste made from fermented soybeans and rice koji. There are four main categories of miso — white miso, red miso, blended, and barley — and dozens of regional varieties, each of which produces a distinctive soup. ",
+                "rating": 4.5
+            },
+            {
+                "foodName": "Udon  ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8170/udon?optimizer=image",
+                "foodInfo": "These thick wheat-flour noodles are thought to have been introduced to Japan from China around 800 years ago. Nowadays, udon is a hearty and inexpensive lunch option, usually boiled and then served with a simple broth. ",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Kan Taketoshi",
+        "foods": [
+            {
+                "foodName": "Tonkatsu",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8178/tonkatsu?optimizer=image",
+                "foodInfo": "Japanese sushi has its roots in the street food culture of medieval Tokyo, with pieces of nigiri (a rectangular bed of vinegar-seasoned rice topped with a slice of raw fish) served up from stalls and eaten by hand.",
+                "rating": 4.5
+            },
+            {
+                "foodName": "Miso Soup ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8186/miso%20soup?optimizer=image",
+                "foodInfo": "A firm staple in the Japanese diet, you can find this thin soup on the menu for breakfast, lunch, and dinner. Miso soup is made from dashi stock and miso: a salty-tasting paste made from fermented soybeans and rice koji. There are four main categories of miso — white miso, red miso, blended, and barley — and dozens of regional varieties, each of which produces a distinctive soup. ",
+                "rating": 4.5
+            },
+            {
+                "foodName": "Udon  ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8170/udon?optimizer=image",
+                "foodInfo": "These thick wheat-flour noodles are thought to have been introduced to Japan from China around 800 years ago. Nowadays, udon is a hearty and inexpensive lunch option, usually boiled and then served with a simple broth. ",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Hirofumi ‘Hiro’",
+        "foods": [
+            {
+                "foodName": "Tempura ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8184/tempura?optimizer=image",
+                "foodInfo": "Japanese sushi has its roots in the street food culture of medieval Tokyo, with pieces of nigiri (a rectangular bed of vinegar-seasoned rice topped with a slice of raw fish) served up from stalls and eaten by hand.",
+                "rating": 4.5
+            },
+            {
+                "foodName": "Miso Soup ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8186/miso%20soup?optimizer=image",
+                "foodInfo": "A firm staple in the Japanese diet, you can find this thin soup on the menu for breakfast, lunch, and dinner. Miso soup is made from dashi stock and miso: a salty-tasting paste made from fermented soybeans and rice koji. There are four main categories of miso — white miso, red miso, blended, and barley — and dozens of regional varieties, each of which produces a distinctive soup. ",
+                "rating": 4.5
+            },
+            {
+                "foodName": "Udon  ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8170/udon?optimizer=image",
+                "foodInfo": "These thick wheat-flour noodles are thought to have been introduced to Japan from China around 800 years ago. Nowadays, udon is a hearty and inexpensive lunch option, usually boiled and then served with a simple broth. ",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Zen Sekizawa",
+        "foods": [
+            {
+                "foodName": "Sukiyaki ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8180/sukiyaki?optimizer=image",
+                "foodInfo": "Japanese sushi has its roots in the street food culture of medieval Tokyo, with pieces of nigiri (a rectangular bed of vinegar-seasoned rice topped with a slice of raw fish) served up from stalls and eaten by hand.",
+                "rating": 4.5
+            },
+            {
+                "foodName": "Miso Soup ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8186/miso%20soup?optimizer=image",
+                "foodInfo": "A firm staple in the Japanese diet, you can find this thin soup on the menu for breakfast, lunch, and dinner. Miso soup is made from dashi stock and miso: a salty-tasting paste made from fermented soybeans and rice koji. There are four main categories of miso — white miso, red miso, blended, and barley — and dozens of regional varieties, each of which produces a distinctive soup. ",
+                "rating": 4.5
+            },
+            {
+                "foodName": "Udon  ",
+                "foodImage": "https://byfood.b-cdn.net/api/public/assets/8170/udon?optimizer=image",
+                "foodInfo": "These thick wheat-flour noodles are thought to have been introduced to Japan from China around 800 years ago. Nowadays, udon is a hearty and inexpensive lunch option, usually boiled and then served with a simple broth. ",
+                "rating": 4.5
+            }
+        ]
+    }
+]

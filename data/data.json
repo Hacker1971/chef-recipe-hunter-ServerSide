@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Masashi Katsuki",
+        "image": "https://hojosjapanese.com/wp-content/uploads/2019/04/Hojos-Japanese-Cuisine_Heather-Ogg-49-Edit-600x401.jpg",
+        "experenced": 2,
+        "recipes": 3,
+        "likes": 350
+    },
+    {
+        "id": 2,
+        "name": "Kan Taketoshi ",
+        "image": "https://media.thepeakmagazine.com.sg/public/2022/06/Imamura-Japanese-craftsmanship-restaurants-singapore.jpg?compress=true&quality=80&w=1080&dpr=1.0",
+        "experenced": 2,
+        "recipes": 3,
+        "likes": 350
+    },
+    {
+        "id": 3,
+        "name": "Hirofumi ‘Hiro’ ",
+        "image": "https://i.pinimg.com/originals/88/f9/5d/88f95d8ae98250342f3af7e539b532ed.jpg",
+        "experenced": 2,
+        "recipes": 3,
+        "likes": 350
+    },
+    {
+        "id": 4,
+        "name": "Zen Sekizawa",
+        "image": "https://content.fortune.com/wp-content/uploads/2016/03/nnaka_chef_niki_nakayama.jpg?w=1440&q=75",
+        "experenced": 2,
+        "recipes": 3,
+        "likes": 350
+    }
+]
